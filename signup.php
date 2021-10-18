@@ -6,7 +6,7 @@
 <div class="header">
 				<ul>
 					<li style="float:left;border-right:none"><a href="cover.php" class="logo"><img src="images/cal.png" width="30px" height="30px"><strong> Mediviron </strong>Appointment Booking System</a></li>
-					<li><a href="http://alphadevx.infinityfreeapp.com/locateus.php">Locate Us</a></li>
+					<!--<li><a href="http://alphadevx.infinityfreeapp.com/locateus.php">Locate Us</a></li>-->
 					<li><a href="http://alphadevx.infinityfreeapp.com/cover.php">Home</a></li>
 				</ul>
 </div>
